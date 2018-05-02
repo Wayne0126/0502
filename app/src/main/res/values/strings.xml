@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">整存整付計算機</string>
+    <string name="st1">整存整付試算:</string>
+    <string name="st2">本金(NTS):</string>
+    <string name="st3">年利率(%)</string>
+    <string name="st4">存款期數:</string>
+    <string name="st5">計算本利和</string>
+    <string name="st6">本利和為:</string>
+
+</resources>
